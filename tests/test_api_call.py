@@ -1,6 +1,7 @@
 import requests
 
-url = "https://2an49h6dui.execute-api.us-west-1.amazonaws.com/dev/qa"
+# Enter API URL
+url = ""
 
 payload = "{\n  \"context\": \"We introduce a new language representation model called BERT, which stands for " \
           "idirectional Encoder Representations from Transformers. Unlike recent language epresentation models (" \
