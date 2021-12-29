@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /serverless-bert/model/
+/deleteme.py
